@@ -1,4 +1,4 @@
-body {
+/*body {
 	background-color: #f0f0f0
 }
 
@@ -19,7 +19,6 @@ img {
 }
 
 #navbar {
-	/*Add your CSS here!*/
     position:fixed;
 	margin-top:-10px;
 	left:50%;
@@ -41,7 +40,6 @@ ul{
 }
 
 li {
-	/*Add your CSS here!*/
 	display:inline;
 	padding:5px 5px 5px 5px;
 	border: 2px solid #000000;
@@ -52,7 +50,6 @@ li {
 }
 
 #left{
-	/*Add your CSS here!*/
 	float:left;
 	width:45%;
 }
@@ -63,7 +60,6 @@ p {
 }
 
 #right{
-	/*Add your CSS here!*/
 	float:right;
 	width:45%;
 }
@@ -104,7 +100,6 @@ th {
 }
 
 #footer{
-	/*Add your CSS here!*/
 	clear:both;
 	position: relative;
 	bottom: -20px;
@@ -141,4 +136,16 @@ th {
 	font-size: 1.2em;
 	font-variant: small-caps;
 	color: #ffffff;
+}
+*/
+.darkBG {
+	background: #999;
+}
+
+.darkerBG {
+	background: #666;
+}
+
+.darkestBG {
+	background: #333;
 }
